@@ -1,7 +1,4 @@
 # 🤖 XOLA007 - Self-Learning Trading Bot
-
-AI-powered trading bot in a single Python file.
-
 ## ✨ Features
 - 🧠 Self-learning Q-learning agent
 - 📰 News sentiment analysis
